@@ -19,6 +19,8 @@ gem 'sassc-rails', '>= 2.1.0'
 gem 'jquery-rails'
 gem 'simple_form', '~> 5.0', '>= 5.0.3'
 
+gem 'devise', '~> 4.2'
+
 
 
 gem 'bootsnap', '>= 1.1.0', require: false
